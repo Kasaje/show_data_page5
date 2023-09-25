@@ -1,0 +1,39 @@
+.block-left{
+    border: 2px solid black;
+    width: 50%;
+    margin-bottom: 20px;
+}
+.block-right{
+    border: 2px solid black;
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+#line-partition{
+    border: 2px solid rgba(253, 240, 40, 1);
+}
+#choice-left1{
+
+    border-radius: 0px;
+    width: 90%;
+    height: 70px;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+#choice-left2{
+
+    border-radius: 0px;
+    width: 90%;
+    height: 70px;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+#choice-left3{
+
+    border-radius: 0px;
+    width: 90%;
+    height: 70px;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+#block-right{
+    height: 500px;
+    border-top: 3px solid rgba(0, 0, 0, 0.2);
+}
